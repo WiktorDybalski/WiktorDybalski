@@ -3,10 +3,10 @@
 I'm a second-year Computer Science student at AGH University of Krakow. Below you will find a list of my projects!
 
 
-Development of a database system for managing a company offering courses and training  ->  Link to repository
+Development of a database system for managing a company offering courses and training  ->  [Link to repository]()
 Technologies: Microsoft SQL Server, SQL
 
-Darwin World Simulator ->  Link to repository
+Darwin World Simulator ->  [Link to repository](https://github.com/WiktorDybalski/PO_PROJEKT_DYBALSKI_GRZYBACZ)
 Technologies: Java, JavaFX, Gradle
 Description: Modeling and visualizing the evolution of virtual populations using JavaFX and Gradle
 

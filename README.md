@@ -12,7 +12,7 @@ Technologies:  Java, JavaFX, Gradle
 
 ### Algorithms and Data Structures Course ->  [Discover More](https://github.com/WiktorDybalski/Python_projects-term_2-ASD)
 
-Technologies:  [Python]
+Technologies:  Python
 
 ### Development of a database system for managing a company offering courses and training  ->  [Discover More]()
 

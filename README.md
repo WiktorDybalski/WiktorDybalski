@@ -12,42 +12,58 @@ Technologies:  Java, JavaFX, Gradle
 
 [Discover More](https://github.com/WiktorDybalski/PO_PROJEKT_DYBALSKI_GRZYBACZ)
 
-### Algorithms and Data Structures Course ->  [Discover More](https://github.com/WiktorDybalski/Python_projects-term_2-ASD)
+### Algorithms and Data Structures Course
 
 Technologies:  Python
 
-### Development of a database system for managing a company offering courses and training  ->  [Discover More]()
+[Discover More](https://github.com/WiktorDybalski/Python_projects-term_2-ASD)
+
+### Development of a database system for managing a company offering courses and training
 
 Technologies:  Microsoft SQL Server, SQL
 
-### Comparative Analysis of Stochastic Minimization Algorithms using selected functions ->  [Discover More](https://github.com/WiktorDybalski/Stochastic_minimization)
+[Discover More]()
+
+### Comparative Analysis of Stochastic Minimization Algorithms using selected functions
 
 Technologies:  R
 
-### Implementation and Analysis of Finite Element Method for Differential and Difference Equations of Acoustic Material Vibrations  ->  [Discover More](https://github.com/WiktorDybalski/Finite-Element-Method-for-Differential-and-Difference-Equations-)
+[Discover More](https://github.com/WiktorDybalski/Stochastic_minimization)
+
+### Implementation and Analysis of Finite Element Method for Differential and Difference Equations of Acoustic Material Vibrations
 
 Technologies:  Python
 
-### Operating Systems ->  [Discover More](https://github.com/WiktorDybalski/SysOps)
+[Discover More](https://github.com/WiktorDybalski/Finite-Element-Method-for-Differential-and-Difference-Equations-)
+
+### Operating Systems
 
 Description:  Some of my tasks from Operating Systems Course  
 
 Technologies:  C
 
-### Management System for Kitesurfing School  ->  [Discover More](https://github.com/WiktorDybalski/Mortgage_calculator)
+->  [Discover More](https://github.com/WiktorDybalski/SysOps)
+
+### Management System for Kitesurfing School
 
 Description:  This project mainly consist of: Product vision, Persona, User stories, Use case specification, User Flow and Wireframes
 
 Technologies:  Java
 
-### Mortgage Calculator ->  [Discover More](https://github.com/WiktorDybalski/Mortgage_calculator)
+->  [Discover More](https://github.com/WiktorDybalski/Mortgage_calculator)
+
+### Mortgage Calculator
 
 Description:  An application enabling calculation of mortgage parameters based on various variables  
 
 Technologies:  Java
 
-### Online Store -> [Discover More](https://github.com/WiktorDybalski/Online-store)
+->  [Discover More](https://github.com/WiktorDybalski/Mortgage_calculator)
+
+### Online Store
 
 Technologies:  React, Python, Flask
+
+-> [Discover More](https://github.com/WiktorDybalski/Online-store)
 
 Thank you for your interest!

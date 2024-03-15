@@ -10,31 +10,31 @@ Description:  Modeling and visualizing the evolution of virtual populations usin
 
 Technologies:  Java, JavaFX, Gradle
 
-[Discover More](https://github.com/WiktorDybalski/PO_PROJEKT_DYBALSKI_GRZYBACZ)
+->  [Discover More](https://github.com/WiktorDybalski/PO_PROJEKT_DYBALSKI_GRZYBACZ)
 
 ### Algorithms and Data Structures Course
 
 Technologies:  Python
 
-[Discover More](https://github.com/WiktorDybalski/Python_projects-term_2-ASD)
+->  [Discover More](https://github.com/WiktorDybalski/Python_projects-term_2-ASD)
 
 ### Development of a database system for managing a company offering courses and training
 
 Technologies:  Microsoft SQL Server, SQL
 
-[Discover More]()
+->  [Discover More]()
 
 ### Comparative Analysis of Stochastic Minimization Algorithms using selected functions
 
 Technologies:  R
 
-[Discover More](https://github.com/WiktorDybalski/Stochastic_minimization)
+->  [Discover More](https://github.com/WiktorDybalski/Stochastic_minimization)
 
 ### Implementation and Analysis of Finite Element Method for Differential and Difference Equations of Acoustic Material Vibrations
 
 Technologies:  Python
 
-[Discover More](https://github.com/WiktorDybalski/Finite-Element-Method-for-Differential-and-Difference-Equations-)
+->  [Discover More](https://github.com/WiktorDybalski/Finite-Element-Method-for-Differential-and-Difference-Equations-)
 
 ### Operating Systems
 

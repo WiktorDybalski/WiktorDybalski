@@ -4,11 +4,13 @@
 
 ---
 
-### Darwin World Simulator ->  [Discover More](https://github.com/WiktorDybalski/PO_PROJEKT_DYBALSKI_GRZYBACZ)
+### Darwin World Simulator
 
 Description:  Modeling and visualizing the evolution of virtual populations using JavaFX and Gradle
 
 Technologies:  Java, JavaFX, Gradle
+
+[Discover More](https://github.com/WiktorDybalski/PO_PROJEKT_DYBALSKI_GRZYBACZ)
 
 ### Algorithms and Data Structures Course ->  [Discover More](https://github.com/WiktorDybalski/Python_projects-term_2-ASD)
 

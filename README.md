@@ -22,7 +22,7 @@ Technologies:  Python
 
 Technologies:  Microsoft SQL Server, SQL
 
-->  [Discover More]()
+->  [Discover More](https://github.com/WiktorDybalski/Database-system)
 
 ### Comparative Analysis of Stochastic Minimization Algorithms using selected functions
 

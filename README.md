@@ -24,18 +24,6 @@ Technologies:  Microsoft SQL Server, SQL
 
 ->  [Discover More](https://github.com/WiktorDybalski/Database-system)
 
-### Comparative Analysis of Stochastic Minimization Algorithms using selected functions
-
-Technologies:  R
-
-->  [Discover More](https://github.com/WiktorDybalski/Stochastic_minimization)
-
-### Implementation and Analysis of Finite Element Method for Differential and Difference Equations of Acoustic Material Vibrations
-
-Technologies:  Python
-
-->  [Discover More](https://github.com/WiktorDybalski/Finite-Element-Method-for-Differential-and-Difference-Equations-)
-
 ### Operating Systems
 
 Description:  Some of my tasks from Operating Systems Course  
@@ -44,13 +32,25 @@ Technologies:  C
 
 ->  [Discover More](https://github.com/WiktorDybalski/SysOps)
 
+### Comparative Analysis of Stochastic Minimization Algorithms using selected functions
+
+Technologies:  R
+
+->  [Discover More](https://github.com/WiktorDybalski/Stochastic_minimization)
+
 ### Management System for Kitesurfing School
 
 Description:  This project mainly consist of: Product vision, Persona, User stories, Use case specification, User Flow and Wireframes
 
 Technologies:  Java
 
-->  [Discover More](https://github.com/WiktorDybalski/Mortgage_calculator)
+->  [Discover More](https://github.com/WiktorDybalski/Inzynieria-Wymagan-i-Jakosci)
+
+### Implementation and Analysis of Finite Element Method for Differential and Difference Equations of Acoustic Material Vibrations
+
+Technologies:  Python
+
+->  [Discover More](https://github.com/WiktorDybalski/Finite-Element-Method-for-Differential-and-Difference-Equations-)
 
 ### Mortgage Calculator
 

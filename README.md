@@ -4,6 +4,14 @@
 
 ---
 
+### Cinema Website
+
+Description:  The full-featured cinema website project includes a database for managing movies, a backend for handling business logic, and a frontend for users to browse the schedule, book tickets, and check showtimes.
+
+Technologies:  React, Python (Django), PostgreSQL
+
+->  [Discover More](https://github.com/WiktorDybalski/Cinema_Website)
+
 ### Darwin World Simulator
 
 Description:  Modeling and visualizing the evolution of virtual populations using JavaFX and Gradle

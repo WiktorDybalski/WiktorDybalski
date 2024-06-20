@@ -30,7 +30,7 @@ Technologies:  Python
 
 Technologies: React, Java (Spring boot), Gradle
 
-->  [Discover More]([https://github.com/WiktorDybalski/Elevator_System])
+->  [Discover More](https://github.com/WiktorDybalski/Elevator_System)
 
 ### Development of a database system for managing a company offering courses and training
 

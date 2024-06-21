@@ -12,6 +12,7 @@ Technologies:  React, Python (Django), PostgreSQL
 
 ->  [Discover More](https://github.com/WiktorDybalski/Cinema_Website)
 
+
 ### StableWealth_Advisor
 
 Description:  Desktop App designed to aid secure investments, featuring various modules such as a Stock Market Assistant for calculating capital distribution across specific stocks, a Stock Information module providing real-time market prices, and a Treasury Bonds Calculator.
@@ -19,6 +20,7 @@ Description:  Desktop App designed to aid secure investments, featuring various 
 Technologies:  Python (Pandas, Scipy, Matplotlib, Pyside6)
 
 ->  [Discover More](https://github.com/WiktorDybalski/StableWealth_Advisor)
+
 
 ### Darwin World Simulator
 
@@ -28,23 +30,13 @@ Technologies:  Java, JavaFX, Gradle
 
 ->  [Discover More](https://github.com/WiktorDybalski/PO_PROJEKT_DYBALSKI_GRZYBACZ)
 
+
 ### Algorithms and Data Structures Course
 
 Technologies:  Python
 
 ->  [Discover More](https://github.com/WiktorDybalski/Python_projects-term_2-ASD)
 
-### Elevator Management System
-
-Technologies: React, Java (Spring boot), Gradle
-
-->  [Discover More](https://github.com/WiktorDybalski/Elevator_System)
-
-### Development of a database system for managing a company offering courses and training
-
-Technologies:  Microsoft SQL Server, SQL
-
-->  [Discover More](https://github.com/WiktorDybalski/Database-system)
 
 ### Operating Systems
 
@@ -54,25 +46,43 @@ Technologies:  C
 
 ->  [Discover More](https://github.com/WiktorDybalski/SysOps)
 
+
+### Elevator Management System
+
+Technologies: React, Java (Spring boot), Gradle
+
+->  [Discover More](https://github.com/WiktorDybalski/Elevator_System)
+
+
+### Development of a database system for managing a company offering courses and training
+
+Technologies:  Microsoft SQL Server, SQL
+
+->  [Discover More](https://github.com/WiktorDybalski/Database-system)
+
+
 ### Comparative Analysis of Stochastic Minimization Algorithms using selected functions
 
 Technologies:  R
 
 ->  [Discover More](https://github.com/WiktorDybalski/Stochastic_minimization)
 
+
 ### Management System for Kitesurfing School
 
 Description:  This project mainly consist of: Product vision, Persona, User stories, Use case specification, User Flow and Wireframes
 
-Technologies:  Java
+Technologies:  Canva
 
 ->  [Discover More](https://github.com/WiktorDybalski/Inzynieria-Wymagan-i-Jakosci)
+
 
 ### Implementation and Analysis of Finite Element Method for Differential and Difference Equations of Acoustic Material Vibrations
 
 Technologies:  Python
 
 ->  [Discover More](https://github.com/WiktorDybalski/Finite-Element-Method-for-Differential-and-Difference-Equations-)
+
 
 ### Mortgage Calculator
 
@@ -82,10 +92,5 @@ Technologies:  Java
 
 ->  [Discover More](https://github.com/WiktorDybalski/Mortgage_calculator)
 
-### Online Store
-
-Technologies:  React, Python, Flask
-
--> [Discover More](https://github.com/WiktorDybalski/Online-store)
 
 Thank you for your interest!

@@ -12,6 +12,14 @@ Technologies:  React, Python (Django), PostgreSQL
 
 ->  [Discover More](https://github.com/WiktorDybalski/Cinema_Website)
 
+### StableWealth_Advisor
+
+Description:  Desktop App designed to aid secure investments, featuring various modules such as a Stock Market Assistant for calculating capital distribution across specific stocks, a Stock Information module providing real-time market prices, and a Treasury Bonds Calculator.
+
+Technologies:  Python (Pandas, Scipy, Matplotlib, Pyside6)
+
+->  [Discover More](https://github.com/WiktorDybalski/StableWealth_Advisor)
+
 ### Darwin World Simulator
 
 Description:  Modeling and visualizing the evolution of virtual populations using JavaFX and Gradle

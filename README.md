@@ -38,14 +38,6 @@ Technologies:  Python
 ->  [Discover More](https://github.com/WiktorDybalski/Python_projects-term_2-ASD)
 
 
-### Operating Systems
-
-Description:  Some of my tasks from Operating Systems Course  
-
-Technologies:  C
-
-->  [Discover More](https://github.com/WiktorDybalski/SysOps)
-
 ### Pollution Stations Website
 
 Description:  Web application that stores, manages, and analyzes data from measurement stations, utilizing a database for efficient data handling and retrieval.
@@ -59,6 +51,22 @@ Technologies:  Erlang, Elixir, Ecto, Mix, Phoenix
 Technologies: React, Java (Spring boot), Gradle
 
 ->  [Discover More](https://github.com/WiktorDybalski/Elevator_System)
+
+
+### Operating Systems
+
+Description:  Some of my tasks from Operating Systems Course  
+
+Technologies:  C
+
+->  [Discover More](https://github.com/WiktorDybalski/SysOps)
+
+
+### Implementation and Analysis of Finite Element Method for Differential and Difference Equations of Acoustic Material Vibrations
+
+Technologies:  Python
+
+->  [Discover More](https://github.com/WiktorDybalski/Finite-Element-Method-for-Differential-and-Difference-Equations-)
 
 
 ### Development of a database system for managing a company offering courses and training
@@ -82,13 +90,6 @@ Description:  This project mainly consist of: Product vision, Persona, User stor
 Technologies:  Canva
 
 ->  [Discover More](https://github.com/WiktorDybalski/Inzynieria-Wymagan-i-Jakosci)
-
-
-### Implementation and Analysis of Finite Element Method for Differential and Difference Equations of Acoustic Material Vibrations
-
-Technologies:  Python
-
-->  [Discover More](https://github.com/WiktorDybalski/Finite-Element-Method-for-Differential-and-Difference-Equations-)
 
 
 ### Mortgage Calculator

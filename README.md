@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm a second-year Computer Science student at AGH University of Krakow. Below you will find a list of my projects!
+### I'm a third-year Computer Science student at AGH University of Krakow. Below you will find a list of my projects!
 
 ---
 

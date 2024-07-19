@@ -10,7 +10,7 @@ Description:  The full-featured cinema website project includes a database for m
 
 Technologies:  React, Python (Django), PostgreSQL
 
-->  [Discover More](https://github.com/WiktorDybalski/Cinema_Website)
+->  [Discover More](https://github.com/WiktorDybalski/CinemaWebsite)
 
 
 ### StableWealth_Advisor

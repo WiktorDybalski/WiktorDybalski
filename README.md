@@ -76,13 +76,6 @@ Technologies:  Python
 ->  [Discover More](https://github.com/WiktorDybalski/Finite-Element-Method-for-Differential-and-Difference-Equations-)
 
 
-### Development of a database system for managing a company offering courses and training
-
-Technologies:  Microsoft SQL Server, SQL
-
-->  [Discover More](https://github.com/WiktorDybalski/Database-system)
-
-
 ### Comparative Analysis of Stochastic Minimization Algorithms using selected functions
 
 Technologies:  R

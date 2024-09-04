@@ -12,6 +12,13 @@ Technologies:  React, Python (Django), PostgreSQL
 
 ->  [Discover More](https://github.com/WiktorDybalski/CinemaWebsite)
 
+### TicketTrail
+
+Description: Event management system that provides features for booking, and managing event tickets. 
+
+Technologies:  Angular, Java (Spring Boot), PostgreSQL, Docker
+
+->  [Discover More](https://github.com/WiktorDybalski/EventSystem)
 
 ### StableWealth_Advisor
 

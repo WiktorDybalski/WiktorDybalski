@@ -4,13 +4,13 @@
 
 ---
 
-### Cinema Website
+### Cineverse
 
 Description:  The full-featured cinema website project includes a database for managing movies, a backend for handling business logic, and a frontend for users to browse the schedule, book tickets, and check showtimes.
 
 Technologies:  React, Python (Django), PostgreSQL
 
-->  [Discover More](https://github.com/WiktorDybalski/CinemaWebsite)
+->  [Discover More](https://github.com/WiktorDybalski/Cineverse)
 
 ### TicketTrail
 

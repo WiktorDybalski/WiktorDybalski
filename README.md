@@ -1,6 +1,16 @@
 # Hi there 👋
 
-### I'm a third-year Computer Science student at AGH University of Krakow. Below you will find a list of my projects!
+### I'm a third-year Computer Science student at AGH University of Krakow!
+
+---
+
+### Skills and languages
+
+---
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,react,postgres,mysql,html,s,c,elixir,git,maven,postman,vite)](https://skillicons.dev)
+
+### Projects
 
 ---
 

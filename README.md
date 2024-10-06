@@ -9,10 +9,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,react,postgres,mysql,html,css,git,maven,gradle,postman,vite)](https://skillicons.dev)
 
-### Projects
+## Projects
 
 
-### Cineverse
+## Cineverse
 
 Description:  The full-featured cinema website project includes a database for managing movies, a backend for handling business logic, and a frontend for users to browse the schedule, book tickets, and check showtimes.
 

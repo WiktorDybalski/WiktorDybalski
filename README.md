@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm a third-year Computer Science student at AGH University of Krakow!
+### I'm an ambitious Computer Science student at AGH University of Science and Technology in Krakow, always open to fresh ideas and innovation. I'm passionate about full-stack development and software engineering, with a strong focus on Python and Java. I love working in collaborative team environments!
 
 ---
 

@@ -6,13 +6,13 @@
 
 ### Skills and languages
 
----
+--
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,react,postgres,mysql,html,s,c,elixir,git,maven,postman,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,react,postgres,mysql,html,css,c,elixir,git,maven,postman,vite)](https://skillicons.dev)
 
 ### Projects
 
----
+--
 
 ### Cineverse
 

@@ -7,7 +7,7 @@
 ## Skills and languages:
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,react,postgres,mysql,html,css,git,maven,gradle,postman,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,react,postgres,mysql,html,css,c,git,maven,gradle,postman,vite)](https://skillicons.dev)
 
 ## Projects:
 
@@ -60,12 +60,6 @@ Description:  Web application that stores, manages, and analyzes data from measu
 Technologies:  Erlang, Elixir, Ecto, Mix, Phoenix
 
 ->  [Discover More](https://github.com/WiktorDybalski/Pollution_stations_website)
-
-### Elevator Management System
-
-Technologies: React, Java (Spring boot), Gradle
-
-->  [Discover More](https://github.com/WiktorDybalski/Elevator_System)
 
 
 ### Operating Systems

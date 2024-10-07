@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm an ambitious Computer Science student at AGH University of Krakow, always open to fresh ideas and innovation. I'm passionate about full-stack development and software engineering, with a strong focus on Python and Java.
+### I'm an ambitious Computer Science student at AGH University of Krakow, always open to fresh ideas and innovation. I'm passionate about full-stack development and software engineering, with a strong focus on Python, Java and React.
 
 ---
 

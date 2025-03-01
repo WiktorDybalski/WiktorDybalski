@@ -7,7 +7,7 @@
 ## Skills and languages:
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,react,angular,postgres,mysql,html,css,c,git,maven,gradle,postman,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,react,angular,kubernetes,postgres,mysql,git,maven,gradle,postman)](https://skillicons.dev)
 
 ## Projects:
 

@@ -11,6 +11,12 @@
 
 ## Projects:
 
+### Zlotowka
+Description: Smart expense and income tracker that helps you manage your budget with clear insights, notifications, and financial analysis.
+
+Technologies: Next.js, Java (Spring Boot), PostgreSQL, Google Cloud, Vercel, CI/CD (GitHub Workflows)
+
+->  [Discover More](https://github.com/WiktorDybalski/Zlotowka)
 
 ### Cineverse
 

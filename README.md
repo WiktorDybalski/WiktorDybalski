@@ -90,23 +90,4 @@ Technologies:  R
 
 ->  [Discover More](https://github.com/WiktorDybalski/Stochastic_minimization)
 
-
-### Management System for Kitesurfing School
-
-Description:  This project mainly consist of: Product vision, Persona, User stories, Use case specification, User Flow and Wireframes
-
-Technologies:  Canva
-
-->  [Discover More](https://github.com/WiktorDybalski/Inzynieria-Wymagan-i-Jakosci)
-
-
-### Mortgage Calculator
-
-Description:  An application enabling calculation of mortgage parameters based on various variables  
-
-Technologies:  Java
-
-->  [Discover More](https://github.com/WiktorDybalski/Mortgage_calculator)
-
-
 Thank you for your interest!
